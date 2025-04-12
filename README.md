@@ -1,5 +1,4 @@
 # Web-JudiOnline-EYEN69
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
